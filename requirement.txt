@@ -1,0 +1,25 @@
+# Core Python scientific stack
+numpy
+pandas
+
+# Plotting and visualization
+matplotlib
+seaborn
+
+# Image handling
+Pillow
+
+# Progress bars
+tqdm
+
+# Classical ML baseline
+scikit-learn
+
+# Deep learning (CNN)
+tensorflow
+
+# Notebooks
+jupyter
+
+# Optional: if you use Keras separately (older TF versions)
+# keras
