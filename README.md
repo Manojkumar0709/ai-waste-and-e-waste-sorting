@@ -153,23 +153,7 @@ The trained CNN is saved as:
 
 text
 models/cnn_e_waste.h5
-📁 Project Structure
-text
-ai-e-waste-classification/
-├── data/
-│   ├── raw/                # Original datasets (not committed)
-│   └── processed/          # Optional processed arrays
-├── notebook/
-│   ├── 01_data_preparation.ipynb
-│   ├── 02_baseline_linearSVC.ipynb
-│   ├── 03_cnn_training.ipynb
-│   ├── kaggle_images.csv   # Index of all images
-│   └── predict.py          # CLI prediction script
-├── models/
-│   └── cnn_e_waste.h5      # Saved CNN model (ignored in Git, stored locally)
-├── requirements.txt
-├── .gitignore
-└── README.md
+
 🚀 Setup Instructions
 1️⃣ Clone the repository
 bash
